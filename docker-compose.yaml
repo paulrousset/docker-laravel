@@ -26,9 +26,6 @@ services:
     volumes:
       - ./src:/var/www/html
 
-
-
-
 #  artisan:
 #  npm:
 
